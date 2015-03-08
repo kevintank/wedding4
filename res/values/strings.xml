@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">병일<![CDATA[♡]]>미정</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="man">김병일</string>
+    <string name="woman">김미정</string>
+    <string name="kakao_name">(모바일 청첩장)\n김병일 <![CDATA[♡]]> 김미정님의 결혼식에 당신을 초대합니다 \n<![CDATA[♡]]>\n</string>
+    
+    <string name="use_text">Use Text</string>
+    <string name="no_text">No Text</string>
+    <string name="use_applink">Use App Link</string>
+    <string name="use_weblink">Use Web Link</string>
+    <string name="no_link">No Link</string>
+    <string name="use_image">Use Image</string>
+    <string name="no_image">No Image</string>
+    <string name="use_appbutton">Use App Button</string>
+    <string name="use_webbutton">Use Web Button</string>
+    <string name="no_button">No Button</string>
+    
+    <string name="kakaolink_applink">병일<![CDATA[♡]]>미정 앱으로 이동</string>
+    <string name="kakaolink_weblink">Go to Website</string>
+    
+    <string name="kakaolink_appbutton">Go to App</string>
+    <string name="kakaolink_webbutton">웹으로 사진 보기</string>
+    
+</resources>
